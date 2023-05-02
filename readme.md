@@ -1,1 +1,1 @@
-Hola mi primer y utlimo archivo en git porque soy la estrellita de mario bros
+Mi juego favorito es halo infinite
